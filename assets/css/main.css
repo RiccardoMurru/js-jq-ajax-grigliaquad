@@ -23,4 +23,13 @@ body {
     width: 50px;
     background: #eee;
     border-radius: 50%;
+    cursor: pointer;
+}
+
+.yellow {
+    background: rgb(214, 211, 13);
+}
+
+.green {
+    background: rgb(21, 136, 55);
 }
